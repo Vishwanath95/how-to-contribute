@@ -1,3 +1,5 @@
 Initial changes.
 
 Modifed from forked branch.
+
+Fixed issue #2
